@@ -1,119 +1,199 @@
-# Code Particles — Open Source
+# Code Particles
 
-We build **boring, stable, long-lived frontend infrastructure**.
+Building systems for finance, operations, and scale.
 
-This organization hosts open-source projects from **Code Particles**, focused on reducing frontend complexity, improving accessibility and performance, and helping teams ship real products under real constraints.
+Code Particles is a technology company building practical infrastructure for how businesses, institutions, and communities operate.
 
-Frontend engineering is not broken — **it is bloated**. Our work exists to bring calm, clarity, and discipline back to the ecosystem.
+We build products and systems that reduce operational friction, improve financial access, and help organizations run more effectively.
 
----
-
-## Philosophy
-
-All projects under this organization follow a shared philosophy:
-
-* Simplicity is a feature
-* Defaults should be safe and intentional
-* Frontend is systems engineering
-* Accessibility is non-negotiable
-* Performance is product viability
-* Boring tools that last beat clever tools that churn
-
-We optimize for **longevity over novelty**.
+Our work spans product development, intelligent systems integration, financial infrastructure, and operational tooling.
 
 ---
 
-## Projects
+## What We Believe
 
-### `cp-fe-foundation`
+Technology should not merely digitize existing processes.
 
-A boring, opinionated, production-ready frontend foundation.
+It should simplify work, reduce complexity, improve decision making, and unlock scale.
 
-**Purpose**
-
-* Eliminate configuration sprawl
-* Provide clear architectural boundaries
-* Help teams ship without tooling paralysis
-
-**Use it when**
-
-* Starting a new product
-* Standardizing frontend practices
-* You want a calm, predictable baseline
+We believe the next generation of meaningful technology companies will be built around operational infrastructure rather than isolated applications.
 
 ---
 
-### `cp-ui-primitives`
+## Areas of Focus
 
-A token-first, accessibility-by-default UI primitive library.
+### Finance Systems
 
-**Purpose**
+Building tools that improve movement, management, and accessibility of money.
 
-* Enforce visual consistency through tokens
-* Make accessibility the default
-* Provide shallow, composable UI building blocks
+Examples:
 
-**Use it when**
+- Payroll and worker finance
+- Contributions and collections
+- Financial workflows
+- Embedded finance
+- Payment systems
 
-* Building long-lived applications
-* You want consistency without design-system bloat
+### Operational Systems
 
----
+Helping organizations coordinate and execute work efficiently.
 
-## How These Projects Relate
+Examples:
 
-* Projects are **independent** and versioned separately
-* No monorepo, no lockstep releases
-* Compatibility is documented, not enforced
+- ERP platforms
+- Internal tooling
+- Workflow automation
+- Compliance systems
+- Human resource systems
+- Supply chain systems
 
-You can adopt one without the other.
+### Intelligent Systems
 
----
+Applying AI where it improves outcomes and reduces operational burden.
 
-## Governance
+Examples:
 
-All projects are:
-
-* Curated by Code Particles maintainers
-* Guided by explicit contribution rules
-* Protected from trend-driven complexity
-
-Community input is welcome, but clarity and longevity come first.
-
----
-
-## Contributing
-
-Before contributing:
-
-1. Read the project README
-2. Read the contribution & governance guidelines
-3. Open an issue before large changes
-
-We welcome contributions that **reduce complexity**, **improve clarity**, or **strengthen guarantees**.
+- Knowledge systems
+- Context-aware workflows
+- Retrieval systems
+- Operational copilots
+- Process automation
 
 ---
 
-## Who This Is For
+## Portfolio
 
-* Product engineers shipping real applications
-* Small and mid-sized teams
-* Founders who value momentum
-* Organizations building for emerging markets
+### Products
 
-If you prefer constant churn and infinite configuration, this may not be for you.
+#### Kwendo
+
+Worker finance and payroll infrastructure.
+
+Focused on improving financial wellness and operational efficiency for workforces.
 
 ---
 
-## A Quiet Goal
+#### ChangaChanga
 
-Our goal is simple:
+Simple digital contributions and fundraising infrastructure.
 
-To make frontend engineering feel calmer.
+Helping individuals, groups, and communities collect and organize support online.
 
-To help teams think clearly.
-To ship responsibly.
-To build systems that last.
+---
 
-— Code Particles
+#### Husika
 
+Operational workflows and business tooling.
+
+---
+
+#### Kaguzi
+
+Monitoring, inspection, and compliance systems.
+
+---
+
+#### Operate
+
+The nexus of tools for businesses and government.
+
+Modules include:
+
+- Finance
+- Sales
+- Point of Sale
+- Human Resource
+- Supply Chain
+- Manufacturing (Kiwanda)
+- Bursary / Ufadhili
+- Analytics and Reporting
+
+---
+
+## Consulting & Partnerships
+
+Alongside our internal products, we selectively work with organizations requiring:
+
+- Fintech infrastructure
+- Operational systems
+- Internal platforms
+- AI-assisted workflows
+- Enterprise integrations
+- Technical leadership
+- Fractional CTO support
+
+---
+
+## Engineering Principles
+
+We optimize for:
+
+- Simplicity over complexity
+- Reliability over novelty
+- Long-term thinking over short-term hacks
+- Systems thinking over feature accumulation
+- Practical outcomes over hype
+
+---
+
+## Technology
+
+Typical technologies across our ecosystem include:
+
+**Backend**
+
+- Python
+- FastAPI
+- NestJS
+- Elixir
+- GraphQL
+
+**Frontend**
+
+- React
+- Next.js
+- TypeScript
+
+**Infrastructure**
+
+- PostgreSQL
+- Redis
+- Docker
+- Kubernetes
+- AWS
+
+**AI**
+
+- Large Language Models
+- RAG architectures
+- MCP workflows
+- AI-assisted engineering
+
+---
+
+## Careers
+
+We are always interested in builders who enjoy solving difficult problems and shipping practical systems.
+
+Open positions:
+
+https://codeparticles.ke/careers
+
+---
+
+## Contact
+
+Website:
+https://codeparticles.ke
+
+Email:
+hello@codeparticles.ke
+
+Location:
+The Werks  
+Hatheru Road  
+Lavington, Nairobi, Kenya
+
+---
+
+© Code Particles
