@@ -129,6 +129,18 @@ Code Particles' umbrella for central business-rails products, starting with Reve
 
 ---
 
+## Open Source
+
+### [Angular Surveys](https://github.com/henryohanga/angular-surveys)
+
+The open-source survey/forms engine that powers Kaguzi. Currently hosted under a personal account pending transfer to this org.
+
+### [Career Architect](https://github.com/henryohanga/career-architect)
+
+An AI-powered job application pipeline that helps engineers generate tailored resumes, cover letters, and application materials.
+
+---
+
 ## Consulting & Partnerships
 
 Alongside our internal products, we selectively work with organizations requiring:
@@ -171,6 +183,8 @@ Typical technologies across our ecosystem include:
 
 - React
 - Next.js
+- Angular
+- Svelte
 - TypeScript
 
 **Infrastructure**
