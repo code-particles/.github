@@ -1,10 +1,10 @@
 # Code Particles
 
-Building systems for finance, operations, and scale.
+Sovereign infrastructure and financial access tools for Africa's digital economy.
 
-Code Particles is a technology company building practical infrastructure for how businesses, institutions, and communities operate.
+Code Particles builds the foundations — authentication, payments, search, trust, and data — that businesses, institutions, and communities across Africa run on.
 
-We build products and systems that reduce operational friction, improve financial access, and help organizations run more effectively.
+Mobile-first and offline-capable by default, our products power payments, lending, and trust, helping businesses and developers build inclusive financial experiences for markets that legacy infrastructure was never built for.
 
 Our work spans product development, intelligent systems integration, financial infrastructure, and operational tooling.
 
@@ -67,9 +67,39 @@ Examples:
 
 #### Kwendo
 
-Worker finance and payroll infrastructure.
+Earned wage access for African workers — financial access beyond payroll.
 
-Focused on improving financial wellness and operational efficiency for workforces.
+Gives workers instant access to wages they've already earned, reaching them through USSD, app, or WhatsApp, including on basic phones without internet access.
+
+---
+
+#### WaysToPay
+
+Infrastructure for African payments: PayDNS addressing, payment initiation, and consent-based authorization. Not a payment processor — the infrastructure layer between intent and the fragmented reality of African payment rails.
+
+---
+
+#### Fereji
+
+Trust layer for marketplace payments: escrow, identity verification, and dispute resolution behind a single API. Live at [fereji.io](https://fereji.io).
+
+---
+
+#### Schmsoft
+
+SME credit intelligence — alternative data and machine learning to score African small businesses that traditional credit scoring overlooks.
+
+---
+
+#### Fractional
+
+Asset-backed ownership for everyone. Fractional investing in real estate, equipment, and infrastructure, starting from small amounts of capital.
+
+---
+
+#### Husika
+
+Intergenerational wealth management — helping families document, protect, and transfer assets and decision-making structures across generations.
 
 ---
 
@@ -81,32 +111,21 @@ Helping individuals, groups, and communities collect and organize support online
 
 ---
 
-#### Husika
+#### CIX
 
-Operational workflows and business tooling.
+Corporate social responsibility, made measurable. CIX turns CSR from a checkbox exercise into something organizations can design, run, and report on end to end.
 
 ---
 
 #### Kaguzi
 
-Monitoring, inspection, and compliance systems.
+Premium AI-powered forms and response intelligence platform. Describe what you want to learn, AI builds the form, and Kaguzi surfaces the insights — no manual analysis needed.
 
 ---
 
 #### Operate
 
-The nexus of tools for businesses and government.
-
-Modules include:
-
-- Finance
-- Sales
-- Point of Sale
-- Human Resource
-- Supply Chain
-- Manufacturing (Kiwanda)
-- Bursary / Ufadhili
-- Analytics and Reporting
+Code Particles' umbrella for central business-rails products, starting with RevenueOS Africa (Rosa) — event-driven, query-based billing and revenue infrastructure for African SaaS, cloud, and AI companies.
 
 ---
 

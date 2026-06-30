@@ -10,7 +10,7 @@ This repository provides the public profile for the Code Particles GitHub organi
 
 ## About Code Particles
 
-We build boring, stable, long-lived frontend infrastructure. Our projects focus on reducing complexity, improving accessibility and performance, and helping teams ship real products under real constraints.
+We build sovereign infrastructure and financial access tools for Africa's digital economy — the foundations (authentication, payments, search, trust, data) that everything else runs on. Our projects focus on reducing complexity, improving accessibility and performance, and helping teams ship real products under real constraints.
 
 See the organization profile in `profile/README.md` for full philosophy, project list, and contribution guidance.
 
